@@ -1,5 +1,7 @@
 # C-Sharp-Programs
-This repository contains programs related to C Sharp programming language
+This repository contains programs related to C Sharp programming language.
+
+Outputs of Programs are commented in the end of program.
 
 Asssignment No - 01
 
